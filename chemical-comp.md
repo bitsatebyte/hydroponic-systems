@@ -1,4 +1,4 @@
-#Chemical Composition for Hydroponics
+# Chemical Composition for Hydroponics
 
 ## Types of nutrient solutions
 	- Inorganic solutions (Pure chemicals)
