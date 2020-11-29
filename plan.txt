@@ -1,0 +1,20 @@
+# 30-60-90 day plan
+
+## Day 30 (26th December)
+
+	- Software Requirement Specifications
+	- System Design
+	- Literature Overview
+	- 
+
+## Day 60 (26th January)
+
+	- Shed Ready, Tools, Equipment
+	- Literature review
+	- Software Development commences
+
+## Day 90 (26th February)
+
+	- Integration Testing
+	- Working prototype
+	- Germination phase
