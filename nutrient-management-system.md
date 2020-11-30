@@ -66,3 +66,8 @@ pH only ever goes higher than the value we are shooting for or lower than what w
 
 
 References: [![Hydroponic Nutrient Management for Beginners](http://img.youtube.com/vi/tI2K45je-Rw/0.jpg)](http://www.youtube.com/watch?v=tI2K45je-Rw)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=tI2K45je-Rw
+" target="_blank"><img src="http://img.youtube.com/vi/tI2K45je-Rw
+/0.jpg" 
+alt="Hydroponic Nutrient Management for Beginners" width="240" height="180" border="10" /></a>
