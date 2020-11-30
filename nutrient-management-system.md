@@ -64,3 +64,5 @@ pH only ever goes higher than the value we are shooting for or lower than what w
 		+ _Boron_ (B)
 		+ _Molybdenum_ (Mo)
 
+
+References: [![Hydroponic Nutrient Management for Beginners](http://img.youtube.com/vi/tI2K45je-Rw/0.jpg)](http://www.youtube.com/watch?v=tI2K45je-Rw)
